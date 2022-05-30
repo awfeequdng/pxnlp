@@ -1,0 +1,6 @@
+[submodule "seq2seq_translation"]
+	path = seq2seq_translation
+	url = https://github.com/shouxieai/seq2seq_translation
+[submodule "word_2_vec"]
+	path = word_2_vec
+	url = https://github.com/shouxieai/word_2_vec.git
